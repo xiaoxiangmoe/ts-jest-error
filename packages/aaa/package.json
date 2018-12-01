@@ -1,0 +1,17 @@
+{
+  "name": "aaa",
+  "private": true,
+  "version": "0.0.0",
+  "source": "src/index.ts",
+  "dependencies": {
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "@types/jest": "*",
+    "jest": "*",
+    "ts-jest": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
